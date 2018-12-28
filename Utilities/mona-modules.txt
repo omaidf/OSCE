@@ -1,0 +1,59 @@
+0BADF00D  [+] Command used:
+0BADF00D  !mona modules
+          
+          ---------- Mona command started on 2018-10-29 12:46:24 (v2.0, rev 577) ----------
+0BADF00D  [+] Processing arguments and criteria
+0BADF00D      - Pointer access level : X
+0BADF00D  [+] Generating module info table, hang on...
+0BADF00D      - Processing modules
+0BADF00D      - Done. Let's rock 'n roll.
+0BADF00D  -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D   Module info :
+0BADF00D  -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D   Base       | Top        | Size       | Rebase | SafeSEH | ASLR  | NXCompat | OS Dll | Version, Modulename & Path
+0BADF00D  -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D   0x780c0000 | 0x78121000 | 0x00061000 | False  | True    | False |  False   | True   | 6.05.2144.0 [MSVCP60.dll] (C:\WINDOWS\system32\MSVCP60.dll)
+0BADF00D   0x6d300000 | 0x6d30d000 | 0x0000d000 | False  | False   | False |  False   | False  | -1.0- [verify.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\verify.dll)
+0BADF00D   0x76ed0000 | 0x76ef9000 | 0x00029000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [DNSAPI.dll] (C:\WINDOWS\system32\DNSAPI.dll)
+0BADF00D   0x77e40000 | 0x77f42000 | 0x00102000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [kernel32.dll] (C:\WINDOWS\system32\kernel32.dll)
+0BADF00D   0x77ba0000 | 0x77bfa000 | 0x0005a000 | False  | True    | False |  False   | True   | 7.0.3790.1830 [msvcrt.dll] (C:\WINDOWS\system32\msvcrt.dll)
+0BADF00D   0x7c800000 | 0x7c8c0000 | 0x000c0000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [ntdll.dll] (C:\WINDOWS\system32\ntdll.dll)
+0BADF00D   0x71ae0000 | 0x71ae8000 | 0x00008000 | False  | True    | False |  False   | True   | 5.2.3790.0 [wshtcpip.dll] (C:\WINDOWS\System32\wshtcpip.dll)
+0BADF00D   0x6d320000 | 0x6d32d000 | 0x0000d000 | False  | False   | False |  False   | False  | -1.0- [zip.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\zip.dll)
+0BADF00D   0x60020000 | 0x60030000 | 0x00010000 | False  | True    | False |  False   | True   | 7.0.3790.0 [MSVCIRT.dll] (C:\WINDOWS\system32\MSVCIRT.dll)
+0BADF00D   0x76f80000 | 0x76f85000 | 0x00005000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [rasadhlp.dll] (C:\WINDOWS\system32\rasadhlp.dll)
+0BADF00D   0x76f50000 | 0x76f63000 | 0x00013000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [Secur32.dll] (C:\WINDOWS\system32\Secur32.dll)
+0BADF00D   0x00400000 | 0x00406000 | 0x00006000 | False  | False   | False |  False   | False  | -1.0- [ovas.exe] (C:\Program Files\HP OpenView\bin\ovas.exe)
+0BADF00D   0x6d210000 | 0x6d228000 | 0x00018000 | False  | False   | False |  False   | False  | -1.0- [java.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\java.dll)
+0BADF00D   0x71bf0000 | 0x71bf8000 | 0x00008000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [WS2HELP.dll] (C:\WINDOWS\system32\WS2HELP.dll)
+0BADF00D   0x71bb0000 | 0x71bb9000 | 0x00009000 | False  | True    | False |  False   | True   | 5.2.3790.0 [WSOCK32.dll] (C:\WINDOWS\system32\WSOCK32.dll)
+0BADF00D   0x76b70000 | 0x76b7b000 | 0x0000b000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [PSAPI.DLL] (C:\WINDOWS\system32\PSAPI.DLL)
+0BADF00D   0x77420000 | 0x77523000 | 0x00103000 | False  | True    | False |  False   | True   | 6.0 [comctl32.dll] (C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.3790.1830_x-ww_7AE38CCF\comctl32.dll)
+0BADF00D   0x5f270000 | 0x5f2c9000 | 0x00059000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [hnetcfg.dll] (C:\WINDOWS\system32\hnetcfg.dll)
+0BADF00D   0x77380000 | 0x77412000 | 0x00092000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [USER32.dll] (C:\WINDOWS\system32\USER32.dll)
+0BADF00D   0x74010000 | 0x74015000 | 0x00005000 | False  | True    | False |  False   | True   | 5.2.3790.0 [ICMP.dll] (C:\WINDOWS\system32\ICMP.dll)
+0BADF00D   0x5a400000 | 0x5a474000 | 0x00074000 | False  | False   | False |  False   | False  | -1.0- [ovutil.dll] (C:\Program Files\HP OpenView\bin\ovutil.dll)
+0BADF00D   0x5ac00000 | 0x5ac06000 | 0x00006000 | False  | False   | False |  False   | False  | -1.0- [OVTrace.dll] (C:\Program Files\HP OpenView\bin\OVTrace.dll)
+0BADF00D   0x6d1d0000 | 0x6d1d7000 | 0x00007000 | False  | False   | False |  False   | False  | -1.0- [hpi.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\hpi.dll)
+0BADF00D   0x44440000 | 0x44446000 | 0x00006000 | False  | False   | False |  False   | False  | -1.0- [ovEventNative.dll] (C:\Program Files\HP OpenView\bin\ovEventNative.dll)
+0BADF00D   0x7c8d0000 | 0x7d0d3000 | 0x00803000 | False  | True    | False |  False   | True   | 6.00.3790.1830 [SHELL32.dll] (C:\WINDOWS\system32\SHELL32.dll)
+0BADF00D   0x77c50000 | 0x77cef000 | 0x0009f000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [RPCRT4.dll] (C:\WINDOWS\system32\RPCRT4.dll)
+0BADF00D   0x76290000 | 0x762ad000 | 0x0001d000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [IMM32.DLL] (C:\WINDOWS\system32\IMM32.DLL)
+0BADF00D   0x76f70000 | 0x76f77000 | 0x00007000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [winrnr.dll] (C:\WINDOWS\System32\winrnr.dll)
+0BADF00D   0x77da0000 | 0x77df2000 | 0x00052000 | False  | True    | False |  False   | True   | 6.00.3790.2795 [SHLWAPI.dll] (C:\WINDOWS\system32\SHLWAPI.dll)
+0BADF00D   0x76f10000 | 0x76f3e000 | 0x0002e000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [WLDAP32.dll] (C:\WINDOWS\system32\WLDAP32.dll)
+0BADF00D   0x5a200000 | 0x5a264000 | 0x00064000 | False  | False   | False |  False   | False  | -1.0- [ovsnmp.dll] (C:\Program Files\HP OpenView\bin\ovsnmp.dll)
+0BADF00D   0x76cf0000 | 0x76d0a000 | 0x0001a000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [iphlpapi.dll] (C:\WINDOWS\system32\iphlpapi.dll)
+0BADF00D   0x71b20000 | 0x71b61000 | 0x00041000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [mswsock.dll] (C:\WINDOWS\system32\mswsock.dll)
+0BADF00D   0x76aa0000 | 0x76acd000 | 0x0002d000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [WINMM.dll] (C:\WINDOWS\system32\WINMM.dll)
+0BADF00D   0x6d2d0000 | 0x6d2dd000 | 0x0000d000 | False  | False   | False |  False   | False  | -1.0- [net.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\net.dll)
+0BADF00D   0x77c00000 | 0x77c48000 | 0x00048000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [GDI32.dll] (C:\WINDOWS\system32\GDI32.dll)
+0BADF00D   0x6d330000 | 0x6d442000 | 0x00112000 | False  | False   | False |  False   | False  | -1.0- [jvm.dll] (C:\Program Files\HP OpenView\jre\jre1.4\bin\client\jvm.dll)
+0BADF00D   0x77f50000 | 0x77fec000 | 0x0009c000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [ADVAPI32.dll] (C:\WINDOWS\system32\ADVAPI32.dll)
+0BADF00D   0x5a100000 | 0x5a15d000 | 0x0005d000 | False  | False   | False |  False   | False  | -1.0- [ovw.dll] (C:\Program Files\HP OpenView\bin\ovw.dll)
+0BADF00D   0x71c00000 | 0x71c17000 | 0x00017000 | False  | True    | False |  False   | True   | 5.2.3790.1830 [WS2_32.dll] (C:\WINDOWS\system32\WS2_32.dll)
+0BADF00D   0x5a000000 | 0x5a06a000 | 0x0006a000 | False  | False   | False |  False   | False  | -1.0- [ov.dll] (C:\Program Files\HP OpenView\bin\ov.dll)
+0BADF00D  -----------------------------------------------------------------------------------------------------------------------------------------
+0BADF00D  
+0BADF00D  
+0BADF00D  [+] This mona.py action took 0:00:00.609000

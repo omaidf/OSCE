@@ -1,0 +1,10 @@
+badchar = can't add to exploit
+
+hex (x0r 0x0100007f,0xfffffff) = flip
+
+mov ecx, 0xffffffff
+xor ecx, 0xffffffff
+push ecx
+
+
+
